@@ -27,4 +27,6 @@ I'm huangjihua, a full stack developer.
 
 ![Huangjihua's github stats](https://github-readme-stats.vercel.app/api?username=huangjihua&show_icons=true)
 
- 
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+
