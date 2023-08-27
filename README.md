@@ -9,8 +9,6 @@ I'm huangjihua, a full stack developer.
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=huangjihua&layout=compact&hide=javascript,css,html,jupyter%20notebook)
 
-### 🛠 Tools
-
 ### 🛠 Tech Stack and Tools
 
 | End                                                                  | Stack                                                                                                                                                                                                                                                                                                                                                                                                                                                     |
